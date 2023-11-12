@@ -8,8 +8,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 275px;
+    height: max-content;
     margin-top: -4px;
+    padding-top: 40px;
 }
 
 .footer > .logo-footer img {
