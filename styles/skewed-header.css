@@ -35,8 +35,8 @@
 }
 
 .skewed-header > .skewed-header-wrapper > .skewed-header-content > .heading-wrapper {
-    background-color: rgb(206, 161, 53);
-    color: rgb(17, 18, 43);
+    background-color: rgb(17, 18, 43);
+    color: rgb(203, 203, 203);
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
     width: 175px;

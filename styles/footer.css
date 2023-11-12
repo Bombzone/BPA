@@ -28,7 +28,7 @@
 
 .footer > .footer-phone-hours > .hours {
     font-size: 0.8em;
-    color: rgb(206, 161, 53);
+    color: rgb(133, 133, 133);
     text-transform: uppercase;
 }
 
@@ -56,11 +56,5 @@
     transition: 0.5s;
 }
 .footer a:hover {
-    color: rgb(206, 161, 53);
-}
-
-.footer > .copyright-wrapper {
-    margin-bottom: 42px;
-    font-size: 0.7em;
     color: rgb(133, 133, 133);
 }

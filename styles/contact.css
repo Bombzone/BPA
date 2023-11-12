@@ -26,18 +26,18 @@
 }
 
 .company-details-wrapper i {
-    color: black;
+    color: rgb(17, 18, 43);
     transition: 0.5s;
 }
 .company-details-wrapper a {
-    color: black;
+    color: rgb(17, 18, 43);
     transition: 0.5s;
 }
 .company-details-wrapper a:hover {
-    color: rgb(206, 161, 53);
+    color: rgb(133, 133, 133);
 
 }
 .company-details-wrapper a i:hover {
-    color: rgb(206, 161, 53);
+    color: rgb(133, 133, 133);
 
 }

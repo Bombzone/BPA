@@ -1,11 +1,11 @@
 /*button styles*/
 
 .btn {
-    background-color: rgb(206, 161, 53);
-    color: rgb(17, 18, 43);
+    background-color: rgb(17, 18, 43);
+    color: rgb(203, 203, 203);
     font-size: 1.25em;
     padding: 10px 25px;
-    border: 1px solid rgb(206, 161, 53);
+    border: 1px solid rgb(133, 133, 133);
     border-radius: 2px;
     outline: none;
     transition: 0.3s;

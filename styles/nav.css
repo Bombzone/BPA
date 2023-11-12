@@ -86,7 +86,7 @@
 }
 
 .links-wrapper .nav-link a:hover {
-    color: rgb(206, 161, 53);
+    color: rgb(133, 133, 133);
     letter-spacing: 2px;
 }
 
@@ -109,7 +109,7 @@
 }
 
 .navigation-wrapper a:hover {
-    color: rgb(206, 161, 53);
+    color: rgb(203, 203, 203);
 }
 
 .navigation-wrapper .contact-icon {
@@ -124,5 +124,5 @@
 }
 
 .navigation-wrapper .contact-icon a:hover {
-    color: rgb(206, 161, 53);
+    color: rgb(203, 203, 203);
 }

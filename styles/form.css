@@ -22,7 +22,7 @@
 .form input:focus {
     outline: none;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
-    border-bottom: 3px solid rgb(206, 161, 53);
+    border-bottom: 3px solid rgb(133, 133, 133);
 }
 
 .form textarea {
@@ -41,7 +41,7 @@
 .form textarea:focus {
     outline: none;
     box-shadow: 0 2rem 2rem rgba(0, 0, 0, 0.1);
-    border: 3px solid rgb(206, 161, 53);
+    border: 3px solid rgb(133, 133, 133);
 }
 
 .form input::-webkit-input-placeholder, .form textarea::-webkit-input-placeholder {
@@ -59,7 +59,7 @@
     margin-top: 0.7rem;
     display: block;
     transition: all 0.3s;
-    color: rgb(206, 161, 53);
+    color: rgb(133, 133, 133);
     visibility: hidden;
     opacity: 0;
 }
