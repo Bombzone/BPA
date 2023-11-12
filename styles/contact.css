@@ -1,0 +1,43 @@
+/*Contact page styles*/
+
+.contact-grid-wrapper {
+    max-width: 1000px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    grid-gap: 100px;
+}
+
+.company-metadata-sidebar-wrapper > .logo img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.company-metadata-sidebar-wrapper > .company-details-wrapper {
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 1.25em;
+}
+
+.company-details-wrapper i {
+    color: black;
+    transition: 0.5s;
+}
+.company-details-wrapper a {
+    color: black;
+    transition: 0.5s;
+}
+.company-details-wrapper a:hover {
+    color: rgb(206, 161, 53);
+
+}
+.company-details-wrapper a i:hover {
+    color: rgb(206, 161, 53);
+
+}
