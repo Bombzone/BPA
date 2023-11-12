@@ -22,7 +22,6 @@ function initMap() {
     const marker = new google.maps.Marker({
       position: Gameday,
       map,
-      title: "Game Day Grill",
     });
   
     marker.addListener("click", () => {
