@@ -9,16 +9,16 @@
     background-size: cover;
 }
 
-.slogan-section > .top-heading {
+.slogan-section>.top-heading {
     padding: 1px 20px;
     background-color: rgba(17, 18, 43, 0.95);
-    color: rgba(211,211,211, 0.85); 
+    color: rgba(211, 211, 211, 0.85);
     width: 225px;
     border-radius: 2px;
 }
 
-.slogan-section > .bottom-heading {
-    background-color: rgba(211,211,211, 0.85);
+.slogan-section>.bottom-heading {
+    background-color: rgba(211, 211, 211, 0.85);
 
     color: rgba(17, 18, 43, 0.95);
     padding: 1px 20px;
@@ -34,9 +34,9 @@
     background-size: 50px;
 
     background-color: rgb(17, 18, 43);
-    background-repeat:space;
+    background-repeat: space;
     border-top: 10px solid white;
-    color: rgb(211,211,211);
+    color: rgb(211, 211, 211);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,14 +44,14 @@
     box-shadow: inset 0px -26px 79px -8px rgba(0, 0, 0, 0.58);
 }
 
-.features-section > .columns-wrapper {
+.features-section>.columns-wrapper {
     max-width: 1000px;
     width: 95%;
     display: flex;
     justify-content: space-between;
 }
 
-.features-section > .columns-wrapper > .column {
+.features-section>.columns-wrapper>.column {
     padding: 20px;
     margin: 42px;
     text-align: center;
@@ -60,52 +60,56 @@
     transition: 1s;
 }
 
-.features-section > .columns-wrapper > .column:hover {
-    border-bottom: 5px solid rgb(211,211,211);
+.features-section>.columns-wrapper>.column:hover {
+    border-bottom: 5px solid rgb(211, 211, 211);
 }
 
-.features-section > .columns-wrapper > .column :nth-child(1) {
+.features-section>.columns-wrapper>.column :nth-child(1) {
     font-size: 3em;
 }
 
-.features-section > .columns-wrapper > .column :nth-child(2) {
+.features-section>.columns-wrapper>.column :nth-child(2) {
     font-size: 1.5em;
     font-weight: 900;
     height: 50px;
     transition: 1s;
 }
 
-.features-section > .columns-wrapper > .column :nth-child(2):hover {
+.features-section>.columns-wrapper>.column :nth-child(2):hover {
     letter-spacing: 1px;
 }
 
-.features-section > .columns-wrapper > .column :nth-child(3) {
+.features-section>.columns-wrapper>.column :nth-child(3) {
     letter-spacing: 2px;
 }
+
 /*Map styles*/
 #map {
     height: 450px;
     width: 100%;
 
 }
+
 .markertitle {
     font-weight: 500;
     font-size: 14px;
     font-family: Roboto, Arial;
     color: rgb(51, 51, 51);
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
     width: 180px;
 
-    }
+}
+
 .markercontent {
     font-weight: 400;
     font-size: 13px;
     font-family: Roboto, Arial;
     color: rgb(51, 51, 51);
     margin-top: 2px;
-    
+
 }
+
 .markercontent a {
     color: rgb(26, 115, 232);
 }
