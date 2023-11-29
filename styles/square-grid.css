@@ -36,4 +36,9 @@
 
 .square > .square-text-wrapper h1 {
     color: rgb(17, 18, 43);
+    text-align: center;
+}
+.square > .square-text-wrapper i {
+    font-size: small;
+    text-align: center;
 }
