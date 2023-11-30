@@ -10,7 +10,7 @@
     width: 98%;
 }
 
-.page-container > .content-wrapper > #chef {
+.page-container > .content-wrapper #chef {
     width: 350px;
     margin: 0px 40px 20px -9px;
     float: left;
@@ -23,4 +23,9 @@
     letter-spacing: 1px;
     line-height: 30px;
     text-indent: 48pt;
+    word-break: keep-all;
+}
+.about {
+    display: grid;
+    grid-template-columns: 350px 1fr;
 }
