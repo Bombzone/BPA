@@ -24,6 +24,8 @@
     line-height: 30px;
     text-indent: 48pt;
     word-break: keep-all;
+    height: fit-content;
+    align-self: center;
 }
 .about {
     display: grid;
