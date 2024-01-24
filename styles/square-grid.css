@@ -42,3 +42,9 @@
     font-size: small;
     text-align: center;
 }
+.square-text-wrapper h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.squares img {
+    border-radius: 5%;
+}
